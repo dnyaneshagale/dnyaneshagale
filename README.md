@@ -109,11 +109,12 @@ I regularly solve algorithmic problems to sharpen my problem-solving skills:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dnyanesh-agale/)  
 - ✉️ [Email](mailto:dnyanesh.portfolio@gmail.com)  
 - 🚀 [Portfolio](https://dnyaneshagale.github.io/dnyanesh-portfolio)  
-- 🌳 [LinkTree](https://linktr.ee/Dnyanesh.agale)  
+- 🌳 [LinkTree](https://linktr.ee/Dnyanesh.agale)
 
----
 
 ⭐️ From [dnyaneshagale](https://github.com/dnyaneshagale)
+
+---
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
