@@ -94,7 +94,7 @@ I regularly solve algorithmic problems to sharpen my problem-solving skills:
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats-tau-nine-32.vercel.app/api?username=dnyaneshagale&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshagale&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-tau-nine-32.vercel.app/api/top-langs/?username=dnyaneshagale&layout=compact&theme=radical)
 
 ---
 
