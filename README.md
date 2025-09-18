@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Dnyanesh Agale  
+🚀 Java Backend Developer | Spring Boot | Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://dnyaneshagale.github.io/dnyanesh-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyanesh-agale/)
@@ -8,7 +9,6 @@
 [![LinkTree](https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Dnyanesh.agale)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=dnyaneshagale&color=brightgreen&style=flat-square)
 ## 💻 About Me  
 
 I’m a **Java Backend Developer** specializing in building robust, scalable applications with **Spring Boot, REST APIs, and microservices**.  
@@ -94,8 +94,11 @@ I regularly solve algorithmic problems to sharpen my problem-solving skills:
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats-tau-nine-32.vercel.app/api?username=dnyaneshagale&show_icons=true&theme=radical)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshagale&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dnyaneshagale&theme=radical&no-frame=true&row=1&column=3)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dnyaneshagale&theme=radical&no-frame=true&row=1&column=1)
+
 ![Top Langs](https://github-readme-stats-tau-nine-32.vercel.app/api/top-langs/?username=dnyaneshagale&layout=compact&theme=radical)
 
 ---
@@ -111,3 +114,8 @@ I regularly solve algorithmic problems to sharpen my problem-solving skills:
 ---
 
 ⭐️ From [dnyaneshagale](https://github.com/dnyaneshagale)
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dnyaneshagale&color=brightgreen&style=for-the-badge)
