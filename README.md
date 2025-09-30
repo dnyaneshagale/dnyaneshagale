@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dnyanesh Agale  
+# 👋 Hi, I'm Dnyanesh Agale
 🚀 Java Backend Developer | Spring Boot | Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://dnyaneshagale.github.io/dnyanesh-portfolio)
@@ -9,23 +9,23 @@
 [![LinkTree](https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Dnyanesh.agale)
 
 ---
-## 💻 About Me  
+## 💻 About Me
 
 I’m a **Java Backend Developer** specializing in building robust, scalable applications with **Spring Boot, REST APIs, and microservices**.  
-Passionate about **clean code, performance optimization, and distributed systems**.  
+Passionate about **clean code, performance optimization, and distributed systems**.
 
 ---
 
-## 🚀 Portfolio  
+## 🚀 Portfolio
 
-✨ Visit my **[Portfolio Website](https://dnyaneshagale.github.io/dnyanesh-portfolio)** to explore:  
-- 🔹 Featured Projects  
-- 🔹 My Skills & Tech Stack  
-- 🔹 Resume & Contact  
+✨ Visit my **[Portfolio Website](https://dnyaneshagale.github.io/dnyanesh-portfolio)** to explore:
+- 🔹 Featured Projects
+- 🔹 My Skills & Tech Stack
+- 🔹 Resume & Contact
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -43,7 +43,7 @@ Passionate about **clean code, performance optimization, and distributed systems
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
 ### [Inventory Management System](https://github.com/dnyaneshagale/inventory-management-system)
 
@@ -81,9 +81,22 @@ A platform for educational institutions to organize, manage, and promote campus 
 
 **Tech Stack:** Java, Spring Boot, Spring MVC, Thymeleaf, PostgreSQL, Spring Security
 
+### [Synapse - URL Shortener](https://synapse-url.netlify.app/)
+
+A full-stack URL shortener to create short links, manage them, and track analytics through a user-friendly dashboard.
+
+**Key Features:**
+- JWT-based authentication and secure authorization
+- URL shortening, redirection, and click tracking
+- Analytics dashboard with interactive charts
+- Responsive design and copy-to-clipboard support
+- Robust REST APIs and error handling
+
+**Tech Stack:** Java 21, Spring Boot 3, Spring Security, JWT, JPA/Hibernate, PostgreSQL, React 18, Vite, TailwindCSS, Chart.js
+
 ---
 
-## 💡 Problem Solving  
+## 💡 Problem Solving
 
 I regularly solve algorithmic problems to sharpen my problem-solving skills:
 
@@ -91,9 +104,9 @@ I regularly solve algorithmic problems to sharpen my problem-solving skills:
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-tau-nine-32.vercel.app/api?username=dnyaneshagale&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats-tau-nine-32.vercel.app/api?username=dnyaneshagale&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshagale&theme=radical)
 
@@ -103,12 +116,12 @@ I regularly solve algorithmic problems to sharpen my problem-solving skills:
 
 ---
 
-## 📫 Let’s Connect  
+## 📫 Let’s Connect
 
-💬 Always open to collaborations and tech discussions:  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dnyanesh-agale/)  
-- ✉️ [Email](mailto:dnyanesh.portfolio@gmail.com)  
-- 🚀 [Portfolio](https://dnyaneshagale.github.io/dnyanesh-portfolio)  
+💬 Always open to collaborations and tech discussions:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dnyanesh-agale/)
+- ✉️ [Email](mailto:dnyanesh.portfolio@gmail.com)
+- 🚀 [Portfolio](https://dnyaneshagale.github.io/dnyanesh-portfolio)
 - 🌳 [LinkTree](https://linktr.ee/Dnyanesh.agale)
 
 
