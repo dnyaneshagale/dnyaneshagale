@@ -1,98 +1,142 @@
 # 👋 Hi, I'm Dnyanesh Agale
-🚀 Java Backend Developer | Spring Boot | Problem Solver
+🚀 Java Backend Developer | Spring Boot Enthusiast | Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://dnyaneshagale.github.io/dnyanesh-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyanesh-agale/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnyanesh.portfolio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://dnyanesh.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyanesh-agale)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnyanesh0019@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dnyaneshagale)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DnyaneshAgale/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/dnyaneshagale/)
-[![LinkTree](https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Dnyanesh.agale)
 
 ---
+
 ## 💻 About Me
 
-I’m a **Java Backend Developer** specializing in building robust, scalable applications with **Spring Boot, REST APIs, and microservices**.  
-Passionate about **clean code, performance optimization, and distributed systems**.
+I'm a **passionate Software Developer** specializing in building **robust, scalable web applications** with **Java, Spring Boot, and modern web technologies**.
+
+🎓 Currently pursuing **B.E. in Electronics & Telecommunication** at **Savitribai Phule Pune University** (CGPA: 8.1/10)  
+🏆 **NPTEL All India Topper** in Programming in Java (Score: 99/100)  
+💼 Former **Software Development Intern** at **IIT Ropar** - recognized as a top performer for delivering high-quality solutions
+
+Passionate about **clean code, REST APIs, database optimization, and building impactful full-stack applications**.
 
 ---
 
-## 🚀 Portfolio
+## 🎓 Education
 
-✨ Visit my **[Portfolio Website](https://dnyaneshagale.github.io/dnyanesh-portfolio)** to explore:
-- 🔹 Featured Projects
-- 🔹 My Skills & Tech Stack
-- 🔹 Resume & Contact
+**Bachelor of Engineering – Electronics & Telecommunication**  
+📍 Savitribai Phule Pune University | 🗓️ 2023 – 2027  
+📊 CGPA: **8.1/10**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+### Core Competencies
+✅ Data Structures & Algorithms  
+✅ Object-Oriented Programming  
+✅ Database Management Systems  
+✅ Operating Systems  
+✅ REST APIs & Microservices
 
 ---
 
-## 📂 Featured Projects
+## 💼 Experience
 
-### [Inventory Management System](https://github.com/dnyaneshagale/inventory-management-system)
+### **Software Development Intern**
+**Indian Institute of Technology (IIT) Ropar** | 📅 Dec 2025 – Jan 2026
 
-A comprehensive inventory management solution built with Spring Boot that helps businesses track products, manage stock levels, and generate reports.
+🌟 **Recognized as one of the top performers in the batch** for delivering high-quality solutions and technical excellence
 
-**Key Features:**
-- RESTful API for inventory operations
-- Real-time stock tracking and alerts
-- User authentication and role-based access control
-- Detailed reporting and analytics
-- Integration with external systems
+- Developed **scalable web solutions** using **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **TypeScript** for complex case studies
+- Utilized **Git/GitHub** for version control and collaborative development
+- Collaborated with co-interns in **intensive breakout room sessions** to solve complex MERN stack challenges
+- **Completed core training modules among the first in batch**, demonstrating quick learning and strong technical aptitude
 
-**Tech Stack:** Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, Docker
+---
 
-### [Video Processor](https://github.com/dnyaneshagale/videoprocessor)
+## 🎯 Featured Projects
 
-A scalable microservice for processing video content, supporting format conversion, compression, and metadata extraction.
+### 📚 [Books I Read – Reading Tracker & Analytics Platform](https://booksiread.web.app)
+*Feb 2026 | Production App*
 
-**Key Features:**
-- Asynchronous video processing with message queues
-- Multiple output format support
-- Configurable processing parameters
-- Progress tracking and notification system
-- Horizontal scaling capability
+A full-stack reading tracker platform that helps book enthusiasts manage their reading journey with powerful analytics and insights.
 
-**Tech Stack:** Java, Spring Boot, Apache Kafka, FFmpeg, AWS S3, Docker
+**🚀 Key Achievements:**
+- Built platform supporting **1000+ books** with secure **JWT authentication**
+- Developed RESTful API with **15+ endpoints** achieving **sub-100ms response times** using Spring Data JPA and SQL optimization
+- Implemented **real-time analytics** for reading statistics and insights
+- Deployed on **Firebase Hosting** with **CI/CD pipeline** and responsive design
 
-### [College Event Management](https://github.com/dnyaneshagale/collegeeventmgmt)
+**💻 Tech Stack:** Java, Spring Boot, Spring Security, JWT, Spring Data JPA, React.js, PostgreSQL, Firebase Hosting
 
-A platform for educational institutions to organize, manage, and promote campus events, workshops, and seminars.
+---
 
-**Key Features:**
-- Event creation and management workflow
-- Registration and attendance tracking
+### 📦 [SmartShelfX – AI-Based Inventory Forecast](https://smartshelfx.web.app)
+*Dec 2025 | Production App*
 
-**Tech Stack:** Java, Spring Boot, Spring MVC, Thymeleaf, PostgreSQL, Spring Security
+An intelligent inventory management system that predicts stock requirements and automates replenishment processes.
 
-### [Synapse - URL Shortener](https://synapse-url.netlify.app/)
+**🚀 Key Achievements:**
+- Designed inventory management system with **role-based access control (RBAC)** and secure authentication
+- Automated **stock alerts and replenishment logic** using Java and MySQL
+- Improved **operational efficiency by 40%** through smart automation
+- Integrated **Spring Boot backend** with **Angular frontend** via REST API architecture
 
-A full-stack URL shortener to create short links, manage them, and track analytics through a user-friendly dashboard.
+**💻 Tech Stack:** Java, Spring Boot, Angular, MySQL, REST APIs
 
-**Key Features:**
-- JWT-based authentication and secure authorization
-- URL shortening, redirection, and click tracking
-- Analytics dashboard with interactive charts
-- Responsive design and copy-to-clipboard support
-- Robust REST APIs and error handling
+---
 
-**Tech Stack:** Java 21, Spring Boot 3, Spring Security, JWT, JPA/Hibernate, PostgreSQL, React 18, Vite, TailwindCSS, Chart.js
+### 🎥 [VideoProcessor API – Video Processing & Streaming Service](https://github.com/dnyaneshagale/videoprocessor)
+*Oct 2025 | Microservice*
+
+A high-performance video processing microservice designed for scalable video transcoding and adaptive streaming.
+
+**🚀 Key Achievements:**
+- Developed video processing microservice with **asynchronous pipelines** and secure authentication
+- Generated **adaptive HLS (HTTP Live Streaming) streams** with multiple quality levels using **FFmpeg**
+- Created **REST API endpoints** for video upload, processing, and streaming operations
+- Implemented **progress tracking** and **notification system** for long-running processes
+
+**💻 Tech Stack:** Java, Spring Boot, FFmpeg, REST APIs, Asynchronous Processing
+
+---
+
+## 🏆 Achievements
+
+🥇 **NPTEL All India Topper** – Programming in Java (Score: **99/100**)  
+🌟 **Top Performer** at IIT Ropar Software Development Internship  
+⚡ **First to Complete** core training modules among intern batch  
+🎓 Maintaining **8.1 CGPA** in B.E. Electronics & Telecommunication
 
 ---
 
@@ -106,30 +150,37 @@ I regularly solve algorithmic problems to sharpen my problem-solving skills:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-tau-nine-32.vercel.app/api?username=dnyaneshagale&show_icons=true&theme=radical)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshagale&theme=radical)
+![GitHub Stats](https://github-readme-stats-tau-nine-32.vercel.app/api?username=dnyaneshagale&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dnyaneshagale&theme=radical&no-frame=true&row=1&column=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshagale&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats-tau-nine-32.vercel.app/api/top-langs/?username=dnyaneshagale&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-tau-nine-32.vercel.app/api/top-langs/?username=dnyaneshagale&layout=compact&theme=radical&hide_border=true)
 
----
-
-## 📫 Let’s Connect
-
-💬 Always open to collaborations and tech discussions:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dnyanesh-agale/)
-- ✉️ [Email](mailto:dnyanesh.portfolio@gmail.com)
-- 🚀 [Portfolio](https://dnyaneshagale.github.io/dnyanesh-portfolio)
-- 🌳 [LinkTree](https://linktr.ee/Dnyanesh.agale)
-
-
-⭐️ From [dnyaneshagale](https://github.com/dnyaneshagale)
+</div>
 
 ---
 
+## 📫 Let's Connect
+
+💬 Always open to collaborations, tech discussions, and exciting opportunities!
+
+- 🌐 **Portfolio:** [dnyanesh.app](https://dnyanesh.app)
+- 💼 **LinkedIn:** [linkedin.com/in/dnyanesh-agale](https://linkedin.com/in/dnyanesh-agale)
+- ✉️ **Email:** [dnyanesh0019@gmail.com](mailto:dnyanesh0019@gmail.com)
+- 💻 **GitHub:** [@dnyaneshagale](https://github.com/dnyaneshagale)
+- 🧠 **LeetCode:** [@DnyaneshAgale](https://leetcode.com/u/DnyaneshAgale/)
+- 🎯 **GeeksForGeeks:** [@dnyaneshagale](https://www.geeksforgeeks.org/user/dnyaneshagale/)
+
+---
+
+<div align="center">
+
+### ⭐️ From [Dnyanesh Agale](https://github.com/dnyaneshagale) with ❤️
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dnyaneshagale&color=brightgreen&style=for-the-badge)
+
+</div>
