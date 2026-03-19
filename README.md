@@ -101,18 +101,26 @@ A full-stack reading tracker platform that helps book enthusiasts manage their r
 
 ---
 
-### 📦 [SmartShelfX – AI-Based Inventory Forecast](https://smartshelfx.web.app)
-*Dec 2025 | Production App*
+### ⚡ [P2P Chat – Browser-Native Encrypted Peer-to-Peer Chat](https://chat-p2p-x.web.app)
+*Jan 2026 | Production App*
 
-An intelligent inventory management system that predicts stock requirements and automates replenishment processes.
+Browser-native encrypted peer-to-peer chat, calls, and file transfer with **WhatsApp-quality audio/video** and **zero servers in the loop**.
 
 **🚀 Key Achievements:**
-- Designed inventory management system with **role-based access control (RBAC)** and secure authentication
-- Automated **stock alerts and replenishment logic** using Java and MySQL
-- Improved **operational efficiency by 40%** through smart automation
-- Integrated **Spring Boot backend** with **Angular frontend** via REST API architecture
+- Built **end-to-end encrypted messaging** using WebRTC DataChannel with SHA-256 room hashing
+- Implemented **WhatsApp-style messaging** with swipe-to-reply, view-once media, and file transfer
+- Developed **HD voice & video calls** with Web Audio API chain (Opus 128 kbps) and VP9 codec optimization
+- Engineered **7-layer privacy guard**: screenshot protection, blur-on-unfocus, context menu blocking, capture handle detection
+- Deployed scalable **Spring Boot signaling server** on Google Cloud Run with TURN credential rotation
+- Achieved **zero server relay** — server permanently exits after P2P handshake
 
-**💻 Tech Stack:** Java, Spring Boot, Angular, MySQL, REST APIs
+**💻 Tech Stack:** React 18, Tailwind CSS, WebRTC (DataChannel + RTP), Web Audio API, Spring Boot 3, Java 21, Firebase Hosting, Google Cloud Run
+
+**🔐 Security Features:**
+- SHA-256 room hashing (server never sees original code)
+- Anonymous signaling (names exchanged over encrypted P2P only)
+- View-once media with blob URL revocation
+- Screenshot/screen-capture & developer tools blocking
 
 ---
 
